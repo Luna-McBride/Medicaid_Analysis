@@ -1,6 +1,6 @@
-<p align="center" font-size: 40px>
+<h1 align="center">
 <b>Medicaid_Analysis</b>
-</p>
+</h1>
 
 ![MainPage](https://github.com/Luna-McBride/Medicaid_Analysis/blob/main/MainPage.png)
 
