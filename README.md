@@ -1,4 +1,6 @@
+<p align="center">
 # Medicaid_Analysis
+</p>
 
 ![MainPage](https://github.com/Luna-McBride/Medicaid_Analysis/blob/main/MainPage.png)
 
