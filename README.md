@@ -1,12 +1,12 @@
 # Medicaid_Analysis
 
-![MainPage](https://github.com/Luna-McBride/Medicaid_Analysis/blob/main/MainPage.png)
-
 Link to the Dashboard: https://app.powerbi.com/groups/me/reports/f74fc7a4-1e86-48d7-a421-3a3ff32d51f6/ReportSectionfec8b8eb98363d3b61c6?experience=power-bi
 
 Original Dataset: https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-spending-by-drug/medicaid-spending-by-drug
 
 Tools Used: Excel, PowerBI
+
+![MainPage](https://github.com/Luna-McBride/Medicaid_Analysis/blob/main/MainPage.png)
 
 If for any reason the dashboard does not work with the link, a PDF download of it is already in the repository.
 
